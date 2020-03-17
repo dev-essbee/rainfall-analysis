@@ -1,0 +1,272 @@
+station-name,district,climatic-region,koeppen-climatic-region,thornthwaite-climatic-region,station-col-name
+ajmer,ajmer,sub humid,aw,daw,ajmer-ajmer
+arain,ajmer,sub humid,bshw,daw,arain-ajmer
+beawar,ajmer,sub humid,bshw,daw,beawar-ajmer
+bhinai,ajmer,sub humid,bshw,daw,bhinai-ajmer
+gegal,ajmer,sub humid,bshw,daw,gegal-ajmer
+goela,ajmer,sub humid,bshw,daw,goela-ajmer
+jawaja,ajmer,sub humid,bshw,daw,jawaja-ajmer
+kekri,ajmer,humid,bshw,daw,kekri-ajmer
+kishangarh,ajmer,sub humid,aw,daw,kishangarh-ajmer
+mangaliawas,ajmer,sub humid,aw,daw,mangaliawas-ajmer
+nasirabad,ajmer,sub humid,bshw,daw,nasirabad-ajmer
+pisangan,ajmer,sub humid,bshw,daw,pisangan-ajmer
+pushkar,ajmer,sub humid,aw,daw,pushkar-ajmer
+sawar,ajmer,humid,bshw,daw,sawar-ajmer
+sarwar,ajmer,sub humid,bshw,daw,sarwar-ajmer
+srinagar,ajmer,sub humid,bshw,daw,srinagar-ajmer
+tatgarh,ajmer,sub humid,bshw,daw,tatgarh-ajmer
+vijaynagar,ajmer,sub humid,bshw,daw,vijaynagar-ajmer
+masuda,ajmer,sub humid,bshw,daw,masuda-ajmer
+alwar,alwar,sub humid,bshw,daw,alwar-alwar
+bansur,alwar,sub humid,bshw,daw,bansur-alwar
+behrod,alwar,sub humid,bshw,daw,behrod-alwar
+govindgarh,alwar,sub humid,bshw,daw,govindgarh-alwar
+kathumbar,alwar,sub humid,bshw,daw,kathumbar-alwar
+kishangarh bas,alwar,sub humid,bshw,daw,kishangarh bas-alwar
+kotkasim,alwar,sub humid,bshw,daw,kotkasim-alwar
+laxmangarh,alwar,humid,bshw,daw,laxmangarh-alwar
+malakhera,alwar,sub humid,bshw,daw,malakhera-alwar
+mundawar,alwar,sub humid,bshw,daw,mundawar-alwar
+neemrana,alwar,sub humid,bshw,daw,neemrana-alwar
+rajgarh,alwar,humid,bshw,daw,rajgarh-alwar
+ramgarh,alwar,sub humid,bshw,daw,ramgarh-alwar
+tapukara,alwar,sub humid,bshw,daw,tapukara-alwar
+thanagaji,alwar,sub humid,bshw,daw,thanagaji-alwar
+tijara,alwar,sub humid,bshw,daw,tijara-alwar
+arthuna,banswara,humid,cwq,caw,arthuna-banswara
+banswara,banswara,very humid,cwq,caw,banswara-banswara
+bhungra,banswara,very humid,cwq,caw,bhungra-banswara
+danpur,banswara,very humid,cwq,caw,danpur-banswara
+garhi,banswara,very humid,cwq,caw,garhi-banswara
+ghatol,banswara,humid,cwq,caw,ghatol-banswara
+jagpura,banswara,humid,cwq,caw,jagpura-banswara
+kushalgarh,banswara,very humid,cwq,caw,kushalgarh-banswara
+loharia,banswara,very humid,cwq,caw,loharia-banswara
+sajjangarh,banswara,very humid,cwq,caw,sajjangarh-banswara
+sallopat,banswara,very humid,cwq,caw,sallopat-banswara
+shergarh,banswara,very humid,cwq,caw,shergarh-banswara
+antah,baran,very humid,bshw,daw,antah-baran
+atru,baran,very humid,cwq,caw,atru-baran
+chhabra,baran,very humid,cwq,caw,chhabra-baran
+chhipabarod,baran,very humid,cwq,caw,chhipabarod-baran
+baran,baran,very humid,bshw,caw,baran-baran
+kishanganj,baran,very humid,cwq,caw,kishanganj-baran
+mangrol,baran,very humid,bshw,daw,mangrol-baran
+shahbad,baran,very humid,cwq,caw,shahbad-baran
+barmer,barmer,semi arid,aw,daw,barmer-barmer
+chohtan,barmer,semi arid,aw,daw,chohtan-barmer
+pachpadra,barmer,semi arid,aw,daw,pachpadra-barmer
+sheo,barmer,semi arid,aw,ead,sheo-barmer
+siwana,barmer,semi arid,aw,daw,siwana-barmer
+bayana,bharatpur,humid,bshw,daw,bayana-bharatpur
+bharatpur,bharatpur,humid,bshw,daw,bharatpur-bharatpur
+deeg,bharatpur,humid,bshw,daw,deeg-bharatpur
+kaman,bharatpur,humid,bshw,daw,kaman-bharatpur
+kumbher,bharatpur,humid,bshw,daw,kumbher-bharatpur
+nadbai,bharatpur,humid,bshw,daw,nadbai-bharatpur
+nagar,bharatpur,humid,bshw,daw,nagar-bharatpur
+pahari,bharatpur,sub humid,bshw,daw,pahari-bharatpur
+rupwas,bharatpur,humid,bshw,daw,rupwas-bharatpur
+weir,bharatpur,humid,bshw,daw,weir-bharatpur
+ajan bundh *,bharatpur,humid,bshw,daw,ajan bundh *-bharatpur
+sewar bundh *,bharatpur,humid,bshw,daw,sewar bundh *-bharatpur
+asind,bhilwara,humid,bshw,daw,asind-bhilwara
+banera,bhilwara,humid,bshw,daw,banera-bhilwara
+bhilwara,bhilwara,humid,bshw,daw,bhilwara-bhilwara
+hurda,bhilwara,humid,bshw,daw,hurda-bhilwara
+jahajpur,bhilwara,humid,bshw,daw,jahajpur-bhilwara
+kotri,bhilwara,humid,bshw,daw,kotri-bhilwara
+mandal,bhilwara,humid,bshw,daw,mandal-bhilwara
+mandalgarh,bhilwara,humid,bshw,daw,mandalgarh-bhilwara
+raipur,bhilwara,humid,bshw,daw,raipur-bhilwara
+shahpura,bhilwara,humid,bshw,daw,shahpura-bhilwara
+bijolia,bhilwara,humid,bshw,daw,bijolia-bhilwara
+sahada,bhilwara,humid,bshw,daw,sahada-bhilwara
+bikaner,bikaner,semi arid,bwhw,dbw,bikaner-bikaner
+lunkaransar,bikaner,semi arid,bwhw,dbw,lunkaransar-bikaner
+magra ( kot.),bikaner,semi arid,bwhw,daw,magra ( kot.)-bikaner
+surpura ( nokha ),bikaner,arid,bwhw,dbw,surpura ( nokha )-bikaner
+bundi,bundi,humid,bshw,daw,bundi-bundi
+hindoli,bundi,humid,bshw,daw,hindoli-bundi
+keshoraipatan,bundi,humid,bshw,daw,keshoraipatan-bundi
+nainwa,bundi,humid,bshw,daw,nainwa-bundi
+talera,bundi,humid,bshw,daw,talera-bundi
+indargarh,bundi,humid,bshw,daw,indargarh-bundi
+barisadari,chittorgarh,humid,cwq,caw,barisadari-chittorgarh
+begun,chittorgarh,humid,bshw,daw,begun-chittorgarh
+bhadesar,chittorgarh,humid,bshw,daw,bhadesar-chittorgarh
+chittorgarh,chittorgarh,humid,bshw,daw,chittorgarh-chittorgarh
+dungla,chittorgarh,humid,bshw,daw,dungla-chittorgarh
+gangrar,chittorgarh,humid,bshw,daw,gangrar-chittorgarh
+kapasan,chittorgarh,humid,bshw,daw,kapasan-chittorgarh
+nimbahera,chittorgarh,humid,bshw,daw,nimbahera-chittorgarh
+rashmi,chittorgarh,humid,bshw,daw,rashmi-chittorgarh
+bhainsrodgarh,chittorgarh,humid,bshw,daw,bhainsrodgarh-chittorgarh
+bhopalsagar,chittorgarh,humid,bshw,daw,bhopalsagar-chittorgarh
+churu,churu,semi arid,aw,dbw,churu-churu
+rajgarh,churu,semi arid,aw,dbw,rajgarh-churu
+ratangarh,churu,semi arid,aw,dbw,ratangarh-churu
+sardarshahar,churu,semi arid,bwhw,dbw,sardarshahar-churu
+sujangarh,churu,semi arid,aw,daw,sujangarh-churu
+taranagar,churu,semi arid,bwhw,dbw,taranagar-churu
+baswa,dausa,humid,bshw,daw,baswa-dausa
+dausa,dausa,humid,bshw,daw,dausa-dausa
+lalsot,dausa,humid,bshw,daw,lalsot-dausa
+mahuwa,dausa,humid,bshw,daw,mahuwa-dausa
+sikrai,dausa,humid,bshw,daw,sikrai-dausa
+bari,dholpur,humid,bshw,daw,bari-dholpur
+baseri,dholpur,humid,bshw,daw,baseri-dholpur
+dholpur,dholpur,humid,bshw,daw,dholpur-dholpur
+rajakhera,dholpur,humid,bshw,daw,rajakhera-dholpur
+sepau,dholpur,humid,bshw,daw,sepau-dholpur
+sirmathura,dholpur,humid,bshw,daw,sirmathura-dholpur
+talabshahi*,dholpur,humid,bshw,daw,talabshahi*-dholpur
+aspur,dungarpur,humid,cwq,caw,aspur-dungarpur
+chikhali,dungarpur,humid,cwq,caw,chikhali-dungarpur
+dewal,dungarpur,humid,cwq,caw,dewal-dungarpur
+dhambola,dungarpur,humid,cwq,caw,dhambola-dungarpur
+dungarpur,dungarpur,humid,cwq,caw,dungarpur-dungarpur
+galiakot,dungarpur,humid,cwq,caw,galiakot-dungarpur
+ganeshpur,dungarpur,humid,cwq,caw,ganeshpur-dungarpur
+kanba,dungarpur,humid,cwq,caw,kanba-dungarpur
+nithawa,dungarpur,humid,cwq,caw,nithawa-dungarpur
+sabla,dungarpur,humid,cwq,caw,sabla-dungarpur
+sagwara,dungarpur,humid,cwq,caw,sagwara-dungarpur
+venja,dungarpur,humid,cwq,caw,venja-dungarpur
+bhadra,hanumangarh,semi arid,bwhw,dbw,bhadra-hanumangarh
+hanumangarh,hanumangarh,semi arid,bwhw,dbw,hanumangarh-hanumangarh
+nohar,hanumangarh,semi arid,bwhw,dbw,nohar-hanumangarh
+sangaria,hanumangarh,semi arid,bwhw,dbw,sangaria-hanumangarh
+tibi,hanumangarh,semi arid,bwhw,dbw,tibi-hanumangarh
+amber,jaipur,sub humid,bshw,daw,amber-jaipur
+bairath,jaipur,sub humid,bshw,daw,bairath-jaipur
+bassi,jaipur,sub humid,bshw,daw,bassi-jaipur
+chaksu,jaipur,sub humid,bshw,daw,chaksu-jaipur
+chomu,jaipur,sub humid,bshw,daw,chomu-jaipur
+dudu ( mozmabad ),jaipur,sub humid,bshw,daw,dudu ( mozmabad )-jaipur
+jaipur,jaipur,sub humid,bshw,daw,jaipur-jaipur
+jamwa ramgarh,jaipur,sub humid,bshw,daw,jamwa ramgarh-jaipur
+kotputli,jaipur,sub humid,bshw,daw,kotputli-jaipur
+naraina,jaipur,sub humid,bshw,daw,naraina-jaipur
+paota,jaipur,sub humid,bshw,daw,paota-jaipur
+phagi,jaipur,sub humid,bshw,daw,phagi-jaipur
+phulera,jaipur,sub humid,aw,daw,phulera-jaipur
+sambhar,jaipur,sub humid,aw,daw,sambhar-jaipur
+sanganer,jaipur,sub humid,bshw,daw,sanganer-jaipur
+shahpura,jaipur,sub humid,bshw,daw,shahpura-jaipur
+fatehgarh,jaisalmer,arid,bwhw,ead,fatehgarh-jaisalmer
+jaisalmer,jaisalmer,arid,bwhw,ead,jaisalmer-jaisalmer
+pokaran,jaisalmer,arid,bwhw,ead,pokaran-jaisalmer
+ramgarh,jaisalmer,arid,bwhw,ead,ramgarh-jaisalmer
+sam,jaisalmer,arid,bwhw,ead,sam-jaisalmer
+nokh,jaisalmer,arid,bwhw,ead,nokh-jaisalmer
+ahore,jalore,semi arid,aw,daw,ahore-jalore
+bhinmal,jalore,sub humid,aw,daw,bhinmal-jalore
+jalore,jalore,semi arid,aw,daw,jalore-jalore
+jaswantpura,jalore,semi arid,aw,daw,jaswantpura-jalore
+sanchore,jalore,semi arid,aw,daw,sanchore-jalore
+jhalawar,jhalawar,very humid,cwq,caw,jhalawar-jhalawar
+dug,jhalawar,very humid,cwq,caw,dug-jhalawar
+pirawa,jhalawar,very humid,cwq,caw,pirawa-jhalawar
+bakani,jhalawar,very humid,cwq,caw,bakani-jhalawar
+aklera,jhalawar,very humid,cwq,caw,aklera-jhalawar
+manoharthana,jhalawar,very humid,cwq,caw,manoharthana-jhalawar
+khanpur,jhalawar,very humid,cwq,caw,khanpur-jhalawar
+jhalrapatan,jhalawar,very humid,cwq,caw,jhalrapatan-jhalawar
+asnawar,jhalawar,very humid,cwq,caw,asnawar-jhalawar
+pachpahar,jhalawar,very humid,cwq,caw,pachpahar-jhalawar
+gangdhar,jhalawar,very humid,cwq,caw,gangdhar-jhalawar
+chirawa,jhunjhunu,semi arid,aw,dbw,chirawa-jhunjhunu
+jhunjhunu,jhunjhunu,semi arid,aw,dbw,jhunjhunu-jhunjhunu
+khetri,jhunjhunu,sub humid,aw,daw,khetri-jhunjhunu
+udaipurwati,jhunjhunu,sub humid,aw,daw,udaipurwati-jhunjhunu
+bilara,jodhpur,semi arid,aw,daw,bilara-jodhpur
+jodhpur,jodhpur,semi arid,aw,daw,jodhpur-jodhpur
+osian,jodhpur,semi arid,aw,daw,osian-jodhpur
+phalodi,jodhpur,arid,bwhw,ead,phalodi-jodhpur
+shergarh,jodhpur,semi arid,aw,daw,shergarh-jodhpur
+bhopalgarh,jodhpur,semi arid,aw,daw,bhopalgarh-jodhpur
+karoli,karoli,humid,bshw,daw,karoli-karoli
+hindon,karoli,humid,bshw,daw,hindon-karoli
+sapotara,karoli,humid,bshw,daw,sapotara-karoli
+todabhim,karoli,humid,bshw,daw,todabhim-karoli
+nadoti,karoli,humid,bshw,daw,nadoti-karoli
+digod,kota,humid,bshw,daw,digod-kota
+ladpura ( kota ),kota,humid,bshw,daw,ladpura ( kota )-kota
+pipalda,kota,humid,bshw,daw,pipalda-kota
+ramganjmandi,kota,very humid,bshw,daw,ramganjmandi-kota
+sangod,kota,very humid,cwq,caw,sangod-kota
+mandana,kota,very humid,cwq,caw,mandana-kota
+degana,nagaur,semi arid,aw,daw,degana-nagaur
+didwana,nagaur,semi arid,aw,daw,didwana-nagaur
+jayal,nagaur,semi arid,aw,daw,jayal-nagaur
+ladnu,nagaur,semi arid,aw,daw,ladnu-nagaur
+merta city,nagaur,sub humid,aw,daw,merta city-nagaur
+nagaur,nagaur,semi arid,aw,daw,nagaur-nagaur
+nawa,nagaur,semi arid,aw,daw,nawa-nagaur
+parbatsar,nagaur,semi arid,aw,daw,parbatsar-nagaur
+bali,pali,sub humid,aw,daw,bali-pali
+desuri,pali,sub humid,aw,daw,desuri-pali
+jaitaran,pali,sub humid,aw,daw,jaitaran-pali
+kharchi( marwar j.),pali,sub humid,aw,daw,kharchi( marwar j.)-pali
+pali,pali,semi arid,aw,daw,pali-pali
+raipur,pali,sub humid,aw,daw,raipur-pali
+sojat,pali,sub humid,aw,daw,sojat-pali
+pratapgarh,pratapgarh,very humid,cwq,caw,pratapgarh-pratapgarh
+arnod ( hospital ),pratapgarh,very humid,cwq,caw,arnod ( hospital )-pratapgarh
+chhotisadri,pratapgarh,humid,cwq,caw,chhotisadri-pratapgarh
+dhariawad,pratapgarh,humid,cwq,caw,dhariawad-pratapgarh
+pipal khunt,pratapgarh,very humid,cwq,caw,pipal khunt-partapgarh
+amet,rajsamand,humid,bshw,daw,amet-rajsamand
+bhim,rajsamand,semi arid,bshw,daw,bhim-rajsamand
+deogarh,rajsamand,semi arid,bshw,daw,deogarh-rajsamand
+kumbhalgarh,rajsamand,semi arid,bshw,daw,kumbhalgarh-rajsamand
+nathdwara,rajsamand,humid,bshw,daw,nathdwara-rajsamand
+railmagra,rajsamand,humid,bshw,daw,railmagra-rajsamand
+rajsamand,rajsamand,humid,bshw,daw,rajsamand-rajsamand
+bamanwas,sawai madhopur,humid,bshw,daw,bamanwas-sawai madhopur
+bonli,sawai madhopur,humid,bshw,daw,bonli-sawai madhopur
+gangapur city,sawai madhopur,humid,bshw,daw,gangapur city-sawaimadhopur
+khandar,sawai madhopur,humid,bshw,daw,khandar-sawai madhopur
+sawai madhopur,sawai madhopur,humid,bshw,daw,sawai madhopur-sawai madhopur
+choth ka brwada,sawai madhopur,humid,bshw,daw,choth ka brwada-sawaimadhopur
+malarana dungar,sawai madhopur,humid,bshw,daw,malarana dungar-sawaimadhopur
+danta ramgarh,sikar,sub humid,aw,daw,danta ramgarh-sikar
+fatehpur,sikar,semi arid,aw,dbw,fatehpur-sikar
+laxmangarh,sikar,semi arid,aw,daw,laxmangarh-sikar
+neem ka thana,sikar,sub humid,aw,daw,neem ka thana-sikar
+ramgarh,sikar,sub humid,aw,daw,ramgarh-sikar
+sikar,sikar,sub humid,aw,daw,sikar-sikar
+srimadhopur,sikar,sub humid,aw,daw,srimadhopur-sikar
+abu road,sirohi,sub humid,aw,daw,abu road-sirohi
+pindwara,sirohi,sub humid,aw,daw,pindwara-sirohi
+reodhar,sirohi,sub humid,aw,daw,reodhar-sirohi
+sheoganj,sirohi,sub humid,aw,daw,sheoganj-sirohi
+sirohi,sirohi,sub humid,aw,daw,sirohi-sirohi
+mount abu,sirohi,sub humid,aw,daw,mount abu-sirohi
+anupgarh,ganganagar,arid,bwhw,dbw,anupgarh-ganganagar
+ganganagar,ganganagar,arid,bwhw,dbw,ganganagar-ganganagar
+karanpur,ganganagar,arid,bwhw,dbw,karanpur-ganganagar
+padampur,ganganagar,semi arid,bwhw,dbw,padampur-ganganagar
+raisingh nagar,ganganagar,semi arid,bwhw,dbw,raisingh nagar-ganganagar
+suratgarh,ganganagar,semi arid,bwhw,dbw,suratgarh-ganganagar
+sadulshahar,ganganagar,semi arid,bwhw,dbw,sadulshahar-ganganagar
+deoli,tonk,humid,bshw,daw,deoli-tonk
+malpura,tonk,sub humid,bshw,daw,malpura-tonk
+niwai,tonk,humid,bshw,daw,niwai-tonk
+todaraisingh,tonk,humid,bshw,daw,todaraisingh-tonk
+tonk,tonk,humid,bshw,daw,tonk-tonk
+aligarh,tonk,humid,bshw,daw,aligarh-tonk
+peeplu,tonk,humid,bshw,daw,peeplu-tonk
+nagar fort,tonk,humid,bshw,daw,nagar fort-tonk
+gogunda,udaipur,humid,bshw,daw,gogunda-udaipur
+jhadol,udaipur,humid,bshw,daw,jhadol-udaipur
+kherwara,udaipur,humid,bshw,daw,kherwara-udaipur
+kotra,udaipur,humid,bshw,daw,kotra-udaipur
+mavli,udaipur,humid,bshw,daw,mavli-udaipur
+salumber,udaipur,humid,bshw,caw,salumber-udaipur
+sarara,udaipur,humid,bshw,caw,sarara-udaipur
+udaipur ( girwa ),udaipur,humid,bshw,daw,udaipur ( girwa )-udaipur
+vallabh nagar,udaipur,humid,bshw,caw,vallabh nagar-udaipur
+dhariawad,udaipur,humid,bshw,caw,dhariawad-udaipur
