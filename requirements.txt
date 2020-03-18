@@ -6,3 +6,4 @@ ipywidgets
 datetime
 statsmodels
 voila-gridstack
+voila-veutify
