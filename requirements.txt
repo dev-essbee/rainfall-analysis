@@ -1,0 +1,7 @@
+voila
+nupmy 
+pandas
+plotly
+ipywidgets
+datetime
+statsmodels
