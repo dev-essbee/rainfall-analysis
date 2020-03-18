@@ -1,7 +1,8 @@
 voila
-nupmy 
+numpy 
 pandas
 plotly
 ipywidgets
 datetime
 statsmodels
+voila-gridstack
